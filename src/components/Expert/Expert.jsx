@@ -33,7 +33,7 @@ const Expert = () => {
   return (
     <div className='Expert-main'>
         <div>
-            <hr />
+          
             <h1>Expert in Software</h1>
         </div>
         <div className='div-1'>

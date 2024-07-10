@@ -29,7 +29,7 @@ const Contact = () => {
 
                     <div className="message">
                     <span>Your Message :</span>
-                <input type="text" /> 
+               <textarea name="" id=""></textarea>
                     </div>
                     <div className='button'>
 

@@ -2,12 +2,13 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+
  
-  padding: 1rem 0;
+  padding: 2rem 0;
 }
 
 .heading>:nth-child(1){
-  color: rgb(8, 67, 216);
+  color:var(--blue);
   font-size: 20px;
   font-weight: 1000;
 }
@@ -15,7 +16,7 @@
  
   font-weight: 1000;
 }
-.navbar {
+.navbar{
   display: flex;
   gap: 10px;
   font-weight: 1000;
@@ -24,4 +25,43 @@
 a{
 text-decoration: none;
 color: black;
+}
+.menu-toggle {
+  display: none;
+  font-size: 28px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+  .main-header{
+   display: flex;
+ 
+   
+    
+  }
+  .menu-toggle {
+    display: block;
+  }
+  .navbar {
+    display: none;
+    flex-direction: column;
+    background-color: #333;
+    width: 30%;
+    position: absolute;
+    color: white;
+   
+    top: 80px;
+    right: 0;
+  }
+  .navbar.show {
+    display: flex;
+  }
+
+  .navbar a {
+    padding: 10px 0;
+    text-align: center;
+    color: rgb(241, 241, 241);
+  }
+
 }

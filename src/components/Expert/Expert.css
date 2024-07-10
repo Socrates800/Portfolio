@@ -49,11 +49,11 @@
 }
 
 .Expert-main {
-  height: 100vh;
+  padding: 30px;
+ 
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+ 
   gap: 1rem;
 }
 .Expert-main > div:nth-child(1) {
@@ -65,4 +65,21 @@
     width: 30%;
     margin-bottom: 5px;
     border-radius: 30%;
+}
+.Expert-main>div>h1{
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+
+  .div-1{
+    flex-direction: column;
+    
+    
+  }
+  .div-2{
+    
+  flex-direction: column;
+  }
+
 }

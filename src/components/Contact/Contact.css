@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+   padding: 30px;
     gap: 1rem;
 }
 
@@ -44,16 +44,15 @@
     gap: 10px;
 
 }
-.message>input{
-    height: 200px;
-    width: 500px;
-   
-}
+
 input{
     outline: none;
     
 }
+textarea{
+    outline: none;
 
+}
 .button{
   
     align-self: center;
@@ -65,7 +64,7 @@ input{
     font-size: 15px;
     font-weight: bold;
     color: white;
-    background-color: rgb(31, 49, 241);
+    background-color:var(--blue);
     cursor: pointer;
 transition: 0.5s ease-in-out;
 
@@ -80,3 +79,15 @@ transition: 0.5s ease-in-out;
 
 
 
+@media (max-width: 800px) {
+    .form{
+        width: 80%;
+    }
+    .form>.names{
+        flex-direction: column;
+       
+    }
+  
+
+
+}

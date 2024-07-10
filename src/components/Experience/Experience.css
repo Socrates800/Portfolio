@@ -18,11 +18,10 @@
     gap: 2rem;
     display: flex;
   
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: rgb(230, 238, 247);
+    padding: 30px;
+ 
+    background-color:  rgb(224, 238, 254);
 }
 
 .main-content{
@@ -31,4 +30,33 @@
         justify-content: center;
         align-items: center;
         gap: 1rem;
+}
+
+
+@media (max-width: 800px) {
+
+    .experience-main{
+        flex-direction: column;
+    }
+    .main-content{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .div1{
+        width: 84%;
+    }
+  h1{
+    font-size: 20px;
+  }
+ .main-content>.div1>h1{
+    font-size: 18px;
+ }
+ .main-content>.div1>h2{
+    font-size: 16px;
+ }
+ .main-content>.div1>p{
+    font-size: 14px;
+ }
+
 }

@@ -4,17 +4,17 @@ const Score = () => {
   return (
     <div className="score-main">
       <div>
-        <span>20+</span>
+        <span>10+</span>
         <p>Front End Projects</p>
       </div>
       <div>
       
-        <span>5+</span>
+        <span>2+</span>
         <p>Full Stack Projects</p>
       </div>
       <div>
       
-        <span>7+</span>
+        <span>5+</span>
         <p>React Projects</p>
       </div>
       <div>
