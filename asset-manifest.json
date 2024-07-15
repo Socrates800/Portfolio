@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d5699ab0.css",
+    "main.js": "/Portfolio/static/js/main.64fb76f9.js",
+    "static/js/496.049c044a.chunk.js": "/Portfolio/static/js/496.049c044a.chunk.js",
+    "static/media/waleed-2.jpg": "/Portfolio/static/media/waleed-2.216727bd10aca54f7fe1.jpg",
+    "static/media/python.png": "/Portfolio/static/media/python.43fe23a503f8952d5327.png",
+    "static/media/malemodel.jpg": "/Portfolio/static/media/malemodel.3a0a5dc791ddf23f7792.jpg",
+    "static/media/ruby.png": "/Portfolio/static/media/ruby.8596bc760be3dcfa22eb.png",
+    "static/media/physics.png": "/Portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/database.png": "/Portfolio/static/media/database.a3ce64ab3e090a4fc1c5.png",
+    "static/media/c.png": "/Portfolio/static/media/c.87853fda52cac11ab921.png",
+    "static/media/php.png": "/Portfolio/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/wordpress.png": "/Portfolio/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/html-5.png": "/Portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/tailwind-css.png": "/Portfolio/static/media/tailwind-css.1c6e120480cf4d01b686.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d5699ab0.css.map": "/Portfolio/static/css/main.d5699ab0.css.map",
+    "main.64fb76f9.js.map": "/Portfolio/static/js/main.64fb76f9.js.map",
+    "496.049c044a.chunk.js.map": "/Portfolio/static/js/496.049c044a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5699ab0.css",
+    "static/js/main.64fb76f9.js"
+  ]
+}
