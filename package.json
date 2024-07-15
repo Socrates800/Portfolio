@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Waleed-haider81.github.io/Personal-Portfolio",
+  "homepage": "https://Waleed-haider81.github.io/Portfolio",
   "dependencies": {
     "cra-template": "1.2.0",
     "grapheme-splitter": "^1.0.4",
