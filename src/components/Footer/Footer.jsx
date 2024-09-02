@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='main-footer'>
 
       <div className="items">
-        <p>Copyright &#169; 2024 WALEED BIN HAIDER </p>
+        <p>Copyright &#169; 2024 Waleed Bin Haider </p>
         <div>
 
         <span class="material-symbols-outlined">public</span>
